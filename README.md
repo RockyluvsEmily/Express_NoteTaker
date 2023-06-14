@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1voNqg-xsNKg0ef2UTFzhAnFuJarOAibA/view
 
 live URL: https://rockyluvsemily.github.io/Express_NoteTaker/
 <br>
-GitHub Repo URL:https://github.com/RockyluvsEmily/Express_NoteTaker/tree/main
+GitHub Repo URL:https://github.com/RockyluvsEmily/Express_NoteTaker/tree/master
 
 ## Author
 Dewayne Cavendish
